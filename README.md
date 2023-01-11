@@ -2,7 +2,7 @@
 
 **`Jakub Chojnacki`**
 
- I'm a junior React and React Native developer at Digimonkeys. I've started programming when I was around 12 years old then took a break and started learning front-end when I was 18. I'm a life-long learner who enjoys testing and creating new things. I'm trying to expand my knowledge bit by bit :)
+ I'm a React and React Native developer at GIAP. I've started programming when I was around 12 years old then took a break and started learning front-end when I was 18. I'm a life-long learner who enjoys testing and creating new things. I'm trying to expand my knowledge bit by bit :)
   
 ###  🧰 Languages and Tools
 
