@@ -2,7 +2,7 @@
 
 **`Jakub Chojnacki`**
 
- I'm a React and React Native developer at GIAP. I've started programming when I was around 12 years old then took a break and started learning front-end when I was 18. I'm a life-long learner who enjoys testing and creating new things. I'm trying to expand my knowledge bit by bit :)
+ I'm a React developer at GIAP. I have started programming when I was around 12 years old then took a break and started learning front-end when I was 18. I'm a life-long learner who enjoys testing and creating new things. Most of my repositories are private because nowadays I don't have the time to make full projects so I tend to just try things out without making them perfect.
   
 ###  🧰 Languages and Tools
 
@@ -15,8 +15,3 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<br />
-
-###  📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jakub-Chojnacki&count_private=true&show_icons=true&theme=tokyonight)
