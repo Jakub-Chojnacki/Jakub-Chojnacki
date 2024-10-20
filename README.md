@@ -2,8 +2,11 @@
 
 **`Jakub Chojnacki`**
 
- I'm a React developer at GIAP. I have started programming when I was around 12 years old then took a break and started learning front-end when I was 18. I'm a life-long learner who enjoys testing and creating new things. Most of my repositories are private because nowadays I don't have the time to make full projects so I tend to just try things out without making them perfect.
-  
+I work as a React Developer at GIAP, where I'm responsible for building complex data grids, forms, and map widgets related to the GIS sector. 
+My first exposure to programming was in primary school and I always knew I wanted to become a programmer. I have tried many technologies and languages and finally settled on learning front-end when I was 17( around 2018). I have a Bachelor of Engineering degree in Computer Science and I am currently doing my Masters in CS.
+ 
+I'm a lifelong learner who enjoys testing and creating new things. Most of my repositories are private because nowadays I don't have the time to make full projects so I tend to just fiddle with new tech on small and simple projects. I try to keep up to date with new tech by reading articles, listening to podcasts (especially Syntax), and doing courses. I have a solid grasp of FE technologies and patterns. My current focus is to improve my backend skills.
+ 
 ###  🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
